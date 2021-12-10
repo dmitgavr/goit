@@ -1,0 +1,9 @@
+.box {
+    outline: 2px solid tomato; /*для визуализации верстки*/
+
+    padding-bottom: 50px;
+    /* margin-bottom: 50px; */
+    background-color: tomato;
+}
+
+30:12
